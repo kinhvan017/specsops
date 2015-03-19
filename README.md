@@ -1,0 +1,2 @@
+# specsops
+openstack specs
